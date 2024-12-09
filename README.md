@@ -1,5 +1,5 @@
 # Decision-Support-System-for-Optimal-Player-Substitutions
-Final project for the Stat 306: Multivariate Sports Analytics class with Professor Kimberly Villalobos Carballo at MIT. Dec 9th, 2024.
+Final project with Atharva Navaratne for the 15.095 Machine Learning under a Modern Optimization Lens class with Professor Kimberly Villalobos Carballo at MIT. Dec 9th, 2024.
 
 In this project, we used prescriptive ML techniques (based on healthcare applications) to provide a framework professional football managers could use to aid in the substitution decision making process. First, K-means clustering was used to cluster substitutions into 4 different classes, depending only on data that describes the player being substituted in and the player being substituted out. Then, an Optimal Classification Tree (from IAI) was used to interpret the clusters based on an explanation that aligns well with an intuitive understanding of football substitutions.
 
